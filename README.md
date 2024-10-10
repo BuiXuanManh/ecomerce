@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/ed89f4d6-c406-4dc5-94cd-b28f5a8fe200)﻿**###Ecommerce project**
-# Frontend: React + redux
+# Frontend: ReactJS + redux
 # Backend: Nodejs (express)
 # Security: Jwt
 **- Customer:**
