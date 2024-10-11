@@ -13,7 +13,7 @@
   <br>
   The product detail page allows users to view product information, select quantity and color, and add the item to the cart.
 + View cart
-  <img src="https://github.com/user-attachments/assets/a299caaa-2198-4adb-b54d-04555f009cd3"/>
+  <img src="https://github.com/user-attachments/assets/f41f2d63-ad52-4dc6-a639-81d1f0655170"/>
   <br>
    User can select the quantity to proceed with the checkout.
 + Checkout page
