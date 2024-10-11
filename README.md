@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ed89f4d6-c406-4dc5-94cd-b28f5a8fe200)﻿**###Ecommerce project**
+**###Ecommerce project**
 # Frontend: ReactJS + redux
 # Backend: NodeJS (express)
 # Security: Jwt
@@ -9,7 +9,7 @@
   <br>
   Home page includes a sliding banner, a product list, and news.
 + View product details
-  <img src="https://github.com/user-attachments/assets/f41f2d63-ad52-4dc6-a639-81d1f0655170"/>
+  <img src="https://github.com/user-attachments/assets/89972f86-654e-4f44-b349-fa1d0174f9f8"/>
   <br>
   The product detail page allows users to view product information, select quantity and color, and add the item to the cart.
 + View cart
